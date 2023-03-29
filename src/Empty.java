@@ -8,7 +8,7 @@ public class Empty {
 }
 
 // lzc1 merge conflict trigger.
-// lzc2 was here!!!!!
+// lzc2 was here!!!!! Let this one win.
 
 // merge conflict one this
 // another one
