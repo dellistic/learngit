@@ -8,3 +8,7 @@ public class Empty {
 }
 
 // lzc1 merge conflict trigger.
+
+// merge conflict one this
+// another one
+// this is getting complicated... haha.
