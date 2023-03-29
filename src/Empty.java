@@ -6,3 +6,6 @@ public class Empty {
 		System.out.println("hello, world!");
 	}
 }
+
+// merge conflict one this
+// another one
